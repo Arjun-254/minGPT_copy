@@ -140,7 +140,7 @@ Papers + some implementation notes:
 - The learning rate is warmed up for one epoch, and then decays to 0
 - We did not use weight decay, as experiments with weight decay of 0.01 showed no improvement in representation quality.
 - iGPT-S lr 0.003
-- No dropout is used here.
+- No dropout is used here at all.
 
 ### License
 
